@@ -11,7 +11,7 @@ public class UserDao {
     }
 
     public void registerUser(User user){
-        System.out.println("register实现了存储"+user);
+        System.out.println("register"+user);
     }
 
     public void saveUser(User user){
