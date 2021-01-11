@@ -11,7 +11,7 @@ public class UserDao {
     }
 
     public void registerUser(User user){
-        System.out.println("register"+user);
+        System.out.println("新增加的register"+user);
     }
 
     public void saveUser(User user){

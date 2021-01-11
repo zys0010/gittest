@@ -1,75 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca472a2c-83b7-4e63-a03f-048059224b91" name="Default Changelist" comment="添加文件">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/com/huadi/TestInjectCons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/com/huadi/TestInjectConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/com/huadi/TestInjectionProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/com/huadi/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/impl/UserBizImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/impl/UserBizImpl3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/impl/UserBizlmpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/service/UserLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huadi/service/impl/UserLoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-Mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/avalon-framework-4.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/commons-logging-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/junit-4.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/logkit-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/mysql-connector-java-5.1.34.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/servlet-api-2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/spring-dao-2.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/lib/spring-test-4.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SpringStudy/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/SpringStudy.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext-Mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/TestInjectCons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/TestInjectConstruct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/TestInjectionProperty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/TestUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/impl/UserBizImpl2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/impl/UserBizImpl3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/impl/UserBizlmpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/service/UserLoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huadi/service/impl/UserLoginServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    <list default="true" id="ca472a2c-83b7-4e63-a03f-048059224b91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2430">
-              <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huadi/mapper/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,11 +66,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-Mybatis.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,6 +146,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -222,7 +160,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext2.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/huadi/impl/UserBizImpl2.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huadi/mapper/impl/UserMapperImpl.java" />
         <option value="$PROJECT_DIR$/src/main/Test/com/huadi/TestInjectCons.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huadi/impl/UserBizImpl3.java" />
@@ -234,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/mybatis/userMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/huadi/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/main/Test/com/huadi/TestUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java" />
       </list>
     </option>
   </component>
@@ -496,8 +434,16 @@
       <workItem from="1610104782020" duration="477000" />
       <workItem from="1610153076728" duration="17517000" />
       <workItem from="1610240414669" duration="6311000" />
-      <workItem from="1610350388907" duration="929000" />
+      <workItem from="1610350388907" duration="2387000" />
     </task>
+    <task id="LOCAL-00001" summary="添加文件">
+      <created>1610351347413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610351347413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -533,13 +479,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56534000" />
+    <option name="totallyTimeSpent" value="57992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36969697" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36969697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -558,10 +504,10 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.36687306" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.16099072" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.14396285" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -616,20 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1287">
           <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,6 +711,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huadi/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
