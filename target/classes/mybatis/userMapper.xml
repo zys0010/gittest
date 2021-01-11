@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+
+<mapper namespace="com.huadi.mapper.UserMapper">
+    <select id="getLoginUser" parameterType="User"  resultType="User">
+              select * from user where  user_id= #{user_id} and user_ps = #{user_ps}
+       </select>
+
+    <insert id="registerUser"  parameterType="User">
+           insert into user (user_id,user_ps) values (#{user_id},#{user_ps})
+       </insert>
+
+    <select id="getUsers" resultType="User">
+        select * from user
+    </select>
+
+    <!--    根据id删除一个用户-->
+    <delete id="deleteById" parameterType="java.lang.Integer">
+        delete from user where user_id=#{user_id}
+    </delete>
+
+</mapper>
